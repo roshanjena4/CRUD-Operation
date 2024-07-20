@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">crud5</string>
+    <string-array name="course">
+        <item>MCA</item>
+        <item>MBA</item>
+        <item>CA</item>
+        <item>CS</item>
+    </string-array>
+</resources>
